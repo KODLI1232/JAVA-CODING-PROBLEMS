@@ -12,8 +12,7 @@ public class Divison {
 		int result=divide.division(10, 2);
 		
 		System.out.println(result);
-		
-		
+
 		
 	}
 
