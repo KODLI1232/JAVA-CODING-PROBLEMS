@@ -21,7 +21,6 @@ public class CamelCase_CGI {
 						.toUpperCase(word.charAt(0)))
 						.append(word.substring(1));					
 			}
-
 		}
 		System.out.println(camelCase);
 	}

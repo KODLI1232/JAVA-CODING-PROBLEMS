@@ -4,11 +4,11 @@ public class ReverseString {
 
 	public static void main(String[] args) {
 		
-		String s="KL";
-		String t="Rahul";
-		
-		s=s.concat(t);
-		System.out.println(s);
+//		String s="KL";
+//		String t="Rahul";
+//		
+//		s=s.concat(t);
+//		System.out.println(s);
 		
 		
 		String a="Welcome to Coding Practice";
