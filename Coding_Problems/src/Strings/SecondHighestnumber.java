@@ -26,7 +26,7 @@ public class SecondHighestnumber {
 				.skip(1)
 				.findFirst();
 		
-		System.out.println(secondhigh);
+		System.out.println(secondhigh.get());
 		
 	}
 }
